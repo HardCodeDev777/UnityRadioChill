@@ -3,7 +3,6 @@
 ![C#](https://img.shields.io/badge/C%23-%23512BD4?logo=.NET)
 ![License](https://img.shields.io/github/license/HardCodeDev777/UnityRadioChill?color=%2305991d)
 ![Last commit](https://img.shields.io/github/last-commit/HardCodeDev777/UnityRadioChill?color=%2305991d)
-![Tag](https://img.shields.io/github/v/tag/HardCodeDev777/UnityRadioChill)
 ![Top lang](https://img.shields.io/github/languages/top/HardCodeDev777/UnityRadioChill)
 
 
