@@ -4,6 +4,7 @@ using System.Threading;
 using UnityEngine;
 using UnityEditor;
 
+#if UNITY_EDITOR
 namespace HardCodeDev.UnityRadioChill
 {
     public class UnityRadioChill : EditorWindow
@@ -71,3 +72,4 @@ namespace HardCodeDev.UnityRadioChill
     }
 
 }
+#endif
